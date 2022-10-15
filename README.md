@@ -23,3 +23,17 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/20209819/195990996-f758091a-589e-48cc-9439-8518f3d4acbc.png"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a results-oriented Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with superior problem-solving and critical thinking skills, as well as a meticulous attention to detail and methodical nature.
+
+- :telescope: contributing to frontend and backend for building various applications.
+
+- :writing_hand: exploring technical content writing.
+
+- :cloud: cloud architect (platform agnostic: AWS/Google Cloud/Azure)
+
+- :computer: web3 enthusiast, contributor, moderator and PoS/PoW validator
