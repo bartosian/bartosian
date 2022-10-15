@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/20209819/195988856-f340c420-27fa-43af-9723-ad1892ab162a.png" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kirbart/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,6 +13,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div id="views-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=bartosian&style=flat-square&color=blue" alt=""/>
+</div>
+
+</br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/20209819/195990996-f758091a-589e-48cc-9439-8518f3d4acbc.png"/>
 </div>
