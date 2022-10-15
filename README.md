@@ -24,7 +24,6 @@
   <img src="https://user-images.githubusercontent.com/20209819/195990996-f758091a-589e-48cc-9439-8518f3d4acbc.png"/>
 </div>
 
----
 
 <h1>
   Hey There
@@ -42,6 +41,25 @@ I am a results-oriented Software Engineer <img src="https://media.giphy.com/medi
 - :cloud: cloud architect (platform agnostic: AWS/Google Cloud/Azure).
 
 - :computer: web3 enthusiast, contributor, moderator and PoS/PoW validator.
+
+---
+
+### :star: Certifications :
+
+<div>
+  <a href="https://www.credly.com/badges/1689682b-0ecd-4f14-93b7-5f60a47844d0?source=linked_in_profile">
+    <img src="https://user-images.githubusercontent.com/20209819/195999221-172b8b3d-6a56-4aa2-a4dc-5883a5d9696e.png" title="AWS Architect" alt="AWS Architect" width="50" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.credential.net/67f408a2-ffdf-4423-9993-4ee272827cbc?key=9363a576423d06afb77d0acb54d68578e5d14ce3acc79a7d4c56e23875c27765">
+    <img src="https://user-images.githubusercontent.com/20209819/195999488-35172f58-c3a2-4361-90c6-50794fa7931d.png" title="Google Cloud Architect" alt="Google Cloud Architect" width="50" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.credential.net/kc7zjdkg?key=66dc816ef8fc205645d94aa058c81ec29d372d13b02294d9b684acb164898bfd">
+    <img src="https://user-images.githubusercontent.com/20209819/195999360-2384ef08-a80f-4930-ad3e-8534ee29d37c.png" title="Google Cloud Data Engineer" alt="Google Cloud Data Engineer" width="50" height="50"/>&nbsp;
+  </a>
+  <a href="https://www.credential.net/oz2g35wr?key=bf0318c31f50ea841e6adb66096cc374ee5d2c3fc6c1062726cb493017825957">
+    <img src="https://user-images.githubusercontent.com/20209819/195999411-ed2571a5-a909-48c7-9558-159870a15a91.png" title="Google Cloud Associative Engineer" alt="Google Cloud Associative Engineer" width="50" height="50"/>&nbsp;
+  </a>
+</div>
 
 ---
 
