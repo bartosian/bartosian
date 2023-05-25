@@ -105,7 +105,6 @@ I am a results-oriented Software Engineer <img src="https://media.giphy.com/medi
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bartosian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
