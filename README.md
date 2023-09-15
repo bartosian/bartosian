@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/20209819/195988856-f340c420-27fa-43af-9723-ad1892ab162a.png" width="100"/>
+  <img src="https://github.com/bartosian/bartosian/assets/20209819/08081e5a-4afe-482a-aefc-9237f2d009e5" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -61,7 +61,6 @@ I am a results-oriented Software Engineer <img src="https://media.giphy.com/medi
   </a>
 </div>
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
