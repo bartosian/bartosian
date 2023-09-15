@@ -24,12 +24,6 @@
   <img src="https://github.com/bartosian/bartosian/assets/20209819/80741711-3a08-4f48-8c25-878870d1c449"/>
 </div>
 
-
-<h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
 ### :man_technologist: About Me :
 
 I am a results-oriented Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with superior problem-solving and critical thinking skills, as well as a meticulous attention to detail and methodical nature.
