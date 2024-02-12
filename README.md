@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/20209819/195988856-f340c420-27fa-43af-9723-ad1892ab162a.png" width="100"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
