@@ -17,5 +17,5 @@
 </br>
 
 <div align="center">
-  <img src="https://github.com/bartosian/bartosian/assets/20209819/80741711-3a08-4f48-8c25-878870d1c449"/>
+  <img src="https://github.com/bartosian/bartosian/assets/20209819/de01f7de-09d5-4e38-8030-f79894564525"/>
 </div>
